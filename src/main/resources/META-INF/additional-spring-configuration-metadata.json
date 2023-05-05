@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "pranav.app.jwtCookieName",
+      "type": "java.lang.String",
+      "description": "Description for pranav.app.jwtCookieName."
+  }
+] }
